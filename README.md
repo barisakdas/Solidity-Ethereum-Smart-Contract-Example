@@ -54,12 +54,15 @@ The project we are currently in is ready to be compiled. You can run `npm instal
 Let's talk a little about some tools to make full use of the project.
 
 **_Metamask_**
+
 Metamask is a wallet for ethereum. With its easy use, you can create a network immediately. To test the structure in the project, I suggest you examine the network on the polygon and how the test coins are received.
 
 **_Remix_**
+
 An online contract creation and deployment tool for Remix ethereum. You can reach it at `https://remix.ethereum.org/`.
 
 **_PolygonScan_**
+
 PolygonScan is a tool that allows to review and monitor created contracts. You can access it at `https://mumbai.polygonscan.com/` and examine its usage.
 
 In the project, only how it can be done was mentioned and a 'HelloWorld' application was made in the simplest extent.
