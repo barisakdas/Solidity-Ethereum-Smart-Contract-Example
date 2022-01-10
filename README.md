@@ -29,7 +29,6 @@ We download the `truffle` package that we use in the project with the help of np
 
 ```
 npm install -g truffle
-
 ```
 
 Knowing a little about the truffle package contribute to this project. Then we need to start a truffle project.
@@ -50,7 +49,7 @@ Solidity-Example:
     truffle-config.js
 ```
 
-The project we are currently in is ready to be compiled. You can run `npm install` in the home directory to install all other packages. From here, you can create the contracts you will write in the ``contrats` folder. You can then migrate and deploy the contracts you created in the `migrations` folder.
+The project we are currently in is ready to be compiled. You can run `npm install` in the home directory to install all other packages. From here, you can create the contracts you will write in the `contrats` folder. You can then migrate and deploy the contracts you created in the `migrations` folder.
 
 Let's talk a little about some tools to make full use of the project.
 **_Metamask_**
