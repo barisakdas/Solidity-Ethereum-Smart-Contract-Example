@@ -61,4 +61,4 @@ PolygonScan is a tool that allows to review and monitor created contracts. You c
 
 In the project, only how it can be done was mentioned and a 'HelloWorld' application was made in the simplest extent.
 
-If you have questions, you can contact my `barisakdas00@gmail.com` e-mail address.
+If you have questions, you can contact me with `barisakdas00@gmail.com` e-mail address.
